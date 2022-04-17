@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.2",
+    "name": "Look Later",
+    "description": "you can save the url or tab in this extension",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "image/icon.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}

@@ -1,0 +1,56 @@
+body{
+    margin:0px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 400px;
+    box-sizing: border-box;
+}
+#input_el{
+    color:white;
+    background-color: black;
+    padding:10px 5px;
+    width: 100%;
+    border: 2px solid black;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+#input_btn{
+    background: black;
+    color: white;
+    border:3px solid black;
+    padding:10px 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    cursor:pointer;
+}
+#del_btn{
+    background: black;
+    color: white;
+    border:3px solid black;
+    padding:10px 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    cursor:pointer;
+}
+#tab_btn{
+    background: white;
+    color: black;
+    border:3px solid black;
+    padding:10px 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    cursor:pointer;
+}
+ul{
+    margin-top: 14px;
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    margin-top: 5px;
+}
+li a{
+    color:black;
+    padding: 5px;
+    background-color: white;
+}
